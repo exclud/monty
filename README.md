@@ -1,4 +1,13 @@
-# monty
+
+# Monty project
+
 C - Stacks, Queues - LIFO, FIFO
-Compilation & Output
-$ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty'
+
+## Compilation
+
+To compile this project run
+
+```bash:
+ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
+```
+
